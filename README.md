@@ -97,7 +97,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
-* [`bintang`](https://github.com/shirokocode)
+* [`RyuZen`](https://github.com/shirokocode)
 
 
 ```Thanks to all who have participated in the development of this script```
@@ -105,9 +105,6 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
 
 
 ## Sistem Plugin
